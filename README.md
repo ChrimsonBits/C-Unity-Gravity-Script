@@ -3,7 +3,7 @@ got frustrated looking for a good gravitational script so I made my own
 
 Works and tested on Unity 2021.3.131f
 
-Gravscript_v1: Functions perfectly but produces errors in console.
+Gravscript_v1: Functions perfectly but produces errors in console when script is applied to an object taged as "Planet" but everything still functions properly 
 Gravscript_v2: Should function but currently untested.
 
 How to use:
